@@ -53,12 +53,12 @@ Last update: Mon 3 June 6:30am:
 | SPI    |:white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: |  |
 | Drought duration    |:white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: |  |
 | **Coastal Inundation**|     |        |         |        |        |       |         |
-| extreme water level(canute2)     |:white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: |  |
+| extreme water level(canute3) AEP change in freq    |:white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: | (ACS_git_page)[https://github.com/AusClimateService/ncra_coastal_hazards] |
 | Regional Sea Level Rise (CMIP6 projection)     |:white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: |  |
 | Aggregation of flood days |:white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: |  |
 | 1 in 100 AEP inundation |:white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: |  |
 | **Coastal Erosion**|     |        |         |        |        |       |         |
-|     |:white_circle: | :white_circle: | :white_circle: | :white_circle: | :green_circle: | :green_circle: |  |
+| Canute3 AEP change in freq    |:white_circle: | :white_circle: | :white_circle: | :white_circle: | :green_circle: | :green_circle: | (ACS_git_page)[https://github.com/AusClimateService/ncra_coastal_hazards] |
 | **Convective Storms**|     |        |         |        |        |       |         |
 |         |:white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: |  |
 | ---    | --- | ---    |  :-:    | :-:    | :-:    | :-:   | :-:     |
